@@ -1,7 +1,7 @@
 # Playbook
 
 This directory contains the playbook under development. A series of workshops
-for use in club meetings exists in the [`workshops`](workshops/) directory.
+for use in club meetings exists in the [`workshops`](Workshops/) directory.
 
 The playbook will eventually also cover general facilitation guidelines. For
 now, many clubs are creating [case studies](../Case_Studies) of what they're
