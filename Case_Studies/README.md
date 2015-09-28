@@ -29,10 +29,10 @@ Here is what the directory structure looks like:
 ```
 .
 ├── Club_1
-|   ├── 01_Club_Fair_Event
+|   ├── 01_Club_Fair
 |   |   ├── Planning.md
 |   |   └── Recap.md
-|   ├── 02_First_Meeting_Event
+|   ├── 02_First_Meeting
 |   |   ├── Planning.md
 |   |   └── Recap.md
 ├── Club_2
