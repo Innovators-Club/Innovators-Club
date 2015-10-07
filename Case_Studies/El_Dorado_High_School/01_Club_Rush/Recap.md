@@ -27,6 +27,11 @@
 - Make sure you get better attention grabbers. We got lucky (or I guess people were that excited to touch/see something 3D printed...), and were next to the Sci-Fi Fantasy table, which had a working custom built R2-D2 moving around their table...
 
 
+
+
+
+
+
 #Club Rush: Day 2
 
 ##What We Did
