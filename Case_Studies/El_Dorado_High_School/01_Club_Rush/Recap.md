@@ -17,7 +17,7 @@
 - Got 32 sign-ups on Day 1 alone.
 
 ##What Didn't Go Well
-- We couldn't get an arduino demo from the starter kit running because the club staff was too busy to pre-program the arduino before the event and simply assemble the arduino again during the event.
+- We couldn't get an arduino demo from the starter kit running because the club staff was too busy to pre-program the arduino before the event and simply assemble the arduino again during the event. So we just took out the arduino and breadboard and stuff and let people look at stuff we're gonna work on during the year.
 - We didn't have the password for our club advisor's laptop which we needed to program and power the arduino, and to type in the club signups, so we had to improvise by using a crappy piece of lined paper and had people put their info on it (very sloppy).
 
 ##Tips for Other Organizers
