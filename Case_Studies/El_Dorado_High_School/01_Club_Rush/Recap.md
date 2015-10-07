@@ -23,5 +23,5 @@
 ##Tips for Other Organizers
 
 - Make sure you have proper access (including wifi and password) to a laptop to type in sign up information instead of using a crappy piece of paper filled with hard to read handwriting.
-- Have girl staff members on board to attract girl signups. We noticed that after two girls showed up at our table, a couple other girls passed by and saw the two girls signing up for our club, making them feel more welcome to our club, and not feel like it's a "boy's" club.
+- Have girl staff members on board to attract girl signups. We noticed that after two girls showed up at our table, a couple other girls passed by and saw the two girls signing up for our club, making them feel more welcome to join our club, and not feel like it's a "boy's" club, and so they came over and signed up.
 - Make sure you get better attention grabbers. We got lucky, and were next to the Sci-Fi Fantasy table, which had a working custom built R2-D2 moving around their table...
