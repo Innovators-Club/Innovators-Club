@@ -1,4 +1,4 @@
-#Club Rush Day 1
+#Club Rush: Day 1
 
 ##What We Did
 
