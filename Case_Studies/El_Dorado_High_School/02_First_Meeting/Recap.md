@@ -20,6 +20,7 @@
 
 ##What Didn't Go Well
 - We spent too much time talking about how STEM can change the community in the beginning. At least we had enough time for everyone, kind of.
+- We didn't really go indepth on our usage of Remind.com and make sure everyone was signed up with Remind (most were) to get club notifications.
 
 ##Misc
 - We noticed that barely anyone was eating their lunch. We'll make sure in other meetings, we'll make it clear that our meetigns take up most of lunch, but you can come in late to get your lunch.
