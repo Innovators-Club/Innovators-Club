@@ -20,3 +20,4 @@ but going along with the workshop with them. Not good.
 ##Tips For Other Organizers
 - Don't expect people to not get bored of your workshops. Let them do whatever they want, while teaching them how
 to do stuff. Put emphasis on freedom to do whatever they want to do with the resources you give them.
+- BEFORE YOU SCHEDULE A WORKSHOP, PLEASE BE SURE THAT YOU ACTUALLY WENT THROUGH THE WORKSHOP. This helps to ensure that if something comes up, and you end up being busy leading up to the workshop day, you will actually be somewhat prepared. Always be prepared!!!!!! Can't stress that enough.
